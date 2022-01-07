@@ -1,2 +1,2 @@
 # Voting widget
-Like Teligrams voting system.
+Telegrams voting system rework.
