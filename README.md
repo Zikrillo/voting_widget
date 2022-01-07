@@ -1,1 +1,2 @@
-# voting_widget
+# Voting widget
+Like Teligrams voting system.
